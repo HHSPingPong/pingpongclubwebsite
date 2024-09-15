@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import config from '@/lib/config';
 
-import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Button } from './ui/button';
 import {
 	DiscordButton,
@@ -19,7 +18,7 @@ export default function Footer() {
 							Home
 						</Link>
 					</Button>
-					{config.about_sections && (
+					{config.display_about && (
 						<Button asChild variant='ghost'>
 							<Link
 								className='text-sm font-medium'

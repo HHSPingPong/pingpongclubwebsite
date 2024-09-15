@@ -34,7 +34,7 @@ export default function Navbar() {
 						</span>
 					</Link>
 					<nav className='hidden lg:flex items-start gap-1'>
-						{config.about_sections && (
+						{config.display_about && (
 							<Button asChild variant='ghost'>
 								<Link
 									className='text-sm font-medium'
