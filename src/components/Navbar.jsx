@@ -47,14 +47,6 @@ export default function Navbar() {
 						<Button asChild variant='ghost'>
 							<Link
 								className='text-sm font-medium'
-								href='/officers'
-							>
-								Officers
-							</Link>
-						</Button>
-						<Button asChild variant='ghost'>
-							<Link
-								className='text-sm font-medium'
 								href='/meetings'
 							>
 								Meetings
@@ -127,12 +119,6 @@ export default function Navbar() {
 											About
 										</MobileLink>
 									)}
-									<MobileLink
-										onOpenChange={setOpen}
-										href='/officers'
-									>
-										Officers
-									</MobileLink>
 									<MobileLink
 										onOpenChange={setOpen}
 										href='/meetings'

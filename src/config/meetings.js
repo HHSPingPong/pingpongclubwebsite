@@ -1,12 +1,11 @@
 // ** For more information on how to edit the config, please read the README.md ** //
 // https://github.com/underscorelior/HHS-Club-Template?tab=readme-ov-file#meetings-page-srcconfigmeetingsjs
 
-const info = `We meet every Tuesday during lunch in room X100 (Mr. Teacher's room).
-                      Check the campus map to the right to see the location!
-                      The image to the right could also be an photo of one of our exciting meetings!
-                      Our next meeting will be on 12/12/12. During our meeting, we will have 
-                      a short presentation about templates.`;
-const activities = `During our meetings, we will usually do w, x, and y! Sometimes we also do z!`;
+const info = `We meet every other Thursday in the small gym during lunch! See campus map to the right.
+											Last year, we met every week on Monday, but our advisor changed so we are meeting every other Thursday now.
+                      We will send out emails before every meeting to notify you of when they happen.`;
+const activities = `Most of our meetings will be free play. Due to a limited amount of tables, please take turns.
+										We also host tournaments where participants compete for a prize.`;
 
 const image = '/meetingimage.png';
 

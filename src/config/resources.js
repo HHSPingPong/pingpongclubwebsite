@@ -3,19 +3,18 @@
 
 const resources_sections = [
 	{
-		title: 'Section 1',
+		title: 'Useful things:',
 		content: [
-			'https://example.org/',
-			'https://example.org/',
-			'https://example.org/',
+			{link: 'https://racketinsight.com/table-tennis/beginners-guide/', text: "Beginner's guide"},
+			{link: 'https://www.tabletenniscoach.me.uk/useful-links/', text: "Various useful links"},
 		],
 	},
 	{
-		title: 'Section 2',
+		title: 'Club related:',
 		content: [
-			'https://example.com/',
-			'https://example.com/',
-			'https://example.com/',
+			{link: 'https://docs.google.com/forms/d/e/1FAIpQLScJyBgdqJ_E_CCQE5FQr6nBQADBOs7f11rZCpwiO-Xk4p61tQ/viewform', text: "Sign up to recieve emails from us!"},
+			{link: 'https://www.instagram.com/hhs_table_tennis/', text: "Instagram"},
+			{link: 'https://discord.gg/v3SX2debuN', text: "Our new Discord server"},
 		],
 	},
 ];

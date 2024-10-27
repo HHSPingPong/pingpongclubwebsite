@@ -5,44 +5,20 @@ const display_about = true;
 
 const about_sections = [
 	{
-		title: 'Section 1',
-		content: `Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.`,
+		title: 'A fun space to play',
+		content: `Ping Pong Club promotes good sportsmanship and invites players of all skill levels.
+            We aim to sharpen our ping pong skills while enjoying the game in a friendly, supportive community.
+            Though our meetings focus on recreational play, we also host competitive tournaments from time to time.
+            Join our email list using the button above to stay updated, and don't forget to bring your friends to our meetings to share the fun!
+            `,
 	},
 	{
-		title: 'Section 2',
-		content: `Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.`,
-	},
-	{
-		title: 'Section 3',
-		content: `Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.`,
-	},
-	{
-		title: 'Section 4',
-		content: `Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.`,
+		title: 'Tables',
+		content: `Currently, the number of tables is limited since one of our tables broke down earlier this year.
+            We kindly ask everyone to be patient and take turns sharing the available tables so that everyone gets a chance to play.
+            The good news is that a brand-new table is currently being built, and we look forward to having it ready soon! 
+            Thank you for your understanding and cooperation in the meantime.
+            `,
 	},
 ];
 
